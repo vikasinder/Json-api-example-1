@@ -1,24 +1,24 @@
 [
     {
-        "name": "Piano",
+        "name": "Piano3",
         "history": "very old",
-        "types": {
+        "specs": {
             "type": [
-                "Baby Grand",
-                "Parlor Grand",
-                "Concert Grand"
+                "Electric",
+                "Digital",
+                "Grand"
             ],
             "category": [
-                "61 keys",
+                "73 keys",
                 "76 keys",
                 "88 keys"
             ]
         }
     },
     {
-        "name": "Guitar",
+        "name": "Guitar3",
         "history": "old",
-        " specs": {
+        "specs": {
             "type": [
                 "Acoustic",
                 "Eclectic",
@@ -32,18 +32,18 @@
         }
     },
     {
-        "name": "Ukulele",
-        " history ": "new",
-        " specs ": {
+        "name": "Ukulele3",
+        "history": "new",
+        "specs": {
             "types": [
-                "Soprano",
-                "Concert",
-                "Tenor"
+                "Pocket",
+                "Bass",
+                "Contrabass"
             ],
             "category": [
-                "12 Frets",
-                "13 Frets",
-                "14 Frets"
+                "10 Frets",
+                "18 Frets",
+                "16 Frets"
             ]
         }
     }
