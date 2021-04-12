@@ -2,7 +2,7 @@
     {
         "name": "Piano",
         "history": "very old",
-        "types": {
+        "specs": {
             "type": [
                 "Baby Grand",
                 "Parlor Grand",
@@ -35,7 +35,7 @@
         "name": "Ukulele",
         " history ": "new",
         " specs ": {
-            "types": [
+            "type": [
                 "Soprano",
                 "Concert",
                 "Tenor"
